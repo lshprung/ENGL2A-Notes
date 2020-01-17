@@ -40,3 +40,7 @@ ENGL2A Notes 01/15
 - The **Bottom Bun**
 	- Analysis
 	- "How does this evidence support the thesis statement?"
+
+---
+
+[-> Notes 01/17](class_notes_01-17.md)
