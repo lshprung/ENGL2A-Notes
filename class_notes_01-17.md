@@ -13,3 +13,7 @@ He had heard his sofa calling out to him, "what's stopping you from booking a fl
 "You must go to Admonitan, beard! You have powers like a superhero, and yet you choose to sit here and waste your best days away", the sofa argued.
 The Beard boarded a plane the next day without telling his wife. While he was gone, his wife found out that he had left and also discovered his drawer of substances. She had already been struggling with illness and depression, and this was the final straw. She hanged herself the next day.
 Meanwhile, The Beard landed in Admonitan. He was overjoyed and finally felt at peace, reaching the land he had dreamt of for so long. The first day there, he went to visit everything, but began to miss his wife. He began to realize that his dream had never been simply to vacation in Admonitan, but to be there with his lover. Disillusioned, he booked a ticket back home. Although The Beard had grown to be very knowledgable about Admonitan, he had forgotten one very important thing: Admonitan was very strict about drugs. The Beard had brought drugs with him, and the Admonitan police were quick to discover this. The Beard was jailed for a minimum of 5 years, doomed to sit still and enjoy his imagined utopia.
+
+---
+
+[-> Notes 01/22](class_notes_01-22.md)
