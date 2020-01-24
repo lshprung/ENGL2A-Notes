@@ -11,3 +11,7 @@
 ---
 
 See "Writing to a Question" Worksheet
+
+---
+
+[-> Class Notes 01/24](class_notes_01-24.md)
