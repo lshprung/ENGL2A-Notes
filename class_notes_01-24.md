@@ -64,3 +64,7 @@ In the reading, we learned about 3 kinds of sources: primary sources, secondary 
 	- Genre
 	- Author Name
 	- Title
+
+---
+
+[-> Notes 01/27](Class_Notes_01-27.md)
