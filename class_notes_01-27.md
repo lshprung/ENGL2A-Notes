@@ -1,4 +1,4 @@
-[\<- Notes 01/24](Class_Notes_01-24.md)
+[\<- Notes 01/24](class_notes_01-24.md)
 
 ---
 

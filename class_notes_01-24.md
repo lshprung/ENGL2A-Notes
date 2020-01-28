@@ -1,4 +1,4 @@
-[\<- Notes 01/22](Class_Notes_01-22.md)
+[\<- Notes 01/22](class_notes_01-22.md)
 
 ---
 
@@ -67,4 +67,4 @@ In the reading, we learned about 3 kinds of sources: primary sources, secondary 
 
 ---
 
-[-> Notes 01/27](Class_Notes_01-27.md)
+[-> Notes 01/27](class_notes_01-27.md)
