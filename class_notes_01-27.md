@@ -37,3 +37,6 @@ In reading the feedback for my Close Reading Short Essay, I notice that the majo
 
 The author makes various claims in this text relating the retelling of Bluebeard ("The Bloody Chamber") to themes of challenging gender roles and themes of fetishism and sexuality.  Specifically, the author of the article covers the topics of comparison between "The Bloody Chamber" and "Bluebeard",  fetishism and general sexuality in "The Bloody Chamber", themes of narcissism in "The Bloody Chamber", and finally an alternative perspective on the themes discussed in the article.
 
+---
+
+[-> Notes 01/29](class_notes_01-29.md)
