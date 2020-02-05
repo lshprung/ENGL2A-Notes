@@ -13,3 +13,7 @@
 	- Go to the link *Electronically Received Arguments* to find it
 
 - If you want to return to a search result later, make sure to grab the *permalink*
+
+---
+
+[-> Notes 02/05](class_notes_02-05.md)
